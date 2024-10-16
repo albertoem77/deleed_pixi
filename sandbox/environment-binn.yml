@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - autoflake
+  - black
+  - black-jupyter
+  - python-dotenv
+  - isort
+  - pylint
+  - python=3.10
+  - scanpy=1.9.3
+  - scikit-misc
+  - requests_cache
